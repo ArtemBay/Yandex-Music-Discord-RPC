@@ -1,0 +1,4 @@
+pypresence
+yandex_music
+selenium
+pywin32
