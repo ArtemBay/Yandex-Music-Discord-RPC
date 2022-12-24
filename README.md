@@ -9,25 +9,20 @@ ____
  - Вывод названия исполнителя
  - Установка обложки трека как фото приложения
  - Работает автообновление трека, который играет
+ - Отображение наличия подписки
 
 
 ## Библиотека с которой я работал [Yandex Music API](https://github.com/MarshalX/yandex-music-api) 
 ## ⚠️ Это неофициальная библиотека.
 
 
-# Установка библиотеки
+# Установка библиотек
 
-Вы можете установить или обновить Yandex Music API при помощи:
+Вы дожны установить/обновить библиотеки для корректной работы:
 
-    pip install yandex-music --upgrade
-
-Или Вы можете установить из исходного кода с помощью:
-
-    git clone https://github.com/MarshalX/yandex-music-api
-    cd yandex-music-api
-    python setup.py install
+    pip install -r requirements.txt
 
 ____
 
 # Пример:
-<p align="center"> <img src="https://github.com/MrTimoxaYT/Yandex-Music-Discord-RPC/blob/main/img/preview.jpg"></p> 
+<p align="center"> <img src="https://github.com/ArtemBay/Yandex-Music-Discord-RPC/blob/main/img/preview.jpg"></p> 
